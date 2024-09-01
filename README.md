@@ -4,12 +4,12 @@
 
 This repository contains a Power BI project for analyzing sales data from a Superstore. The goal of this project is to demonstrate how to use Power BI for creating insightful and interactive visualizations that help in understanding sales performance, profit margins, operational efficiency and Areas of improvement.
 <p float="center">
-  <img src="https://github.com/user-attachments/assets/5998ba53-2904-4938-8604-2cf2da8b13d7" width="455" />
-  <img src="https://github.com/user-attachments/assets/b3397ef8-c5ce-4bbf-b921-92f55cab0716" width="455" /> 
+  <img src="https://github.com/user-attachments/assets/5998ba53-2904-4938-8604-2cf2da8b13d7" width="400" />
+  <img src="https://github.com/user-attachments/assets/b3397ef8-c5ce-4bbf-b921-92f55cab0716" width="400" /> 
 </p>
 <p float="center">
-  <img src="https://github.com/user-attachments/assets/97c14d8a-b934-4e27-85b4-ddc67a6b7751" width="455" />
-  <img src="https://github.com/user-attachments/assets/4fe610c7-1bdf-4293-8e1e-d3d3cfa75a47" width="455" /> 
+  <img src="https://github.com/user-attachments/assets/97c14d8a-b934-4e27-85b4-ddc67a6b7751" width="400" />
+  <img src="https://github.com/user-attachments/assets/4fe610c7-1bdf-4293-8e1e-d3d3cfa75a47" width="400" /> 
 </p>
 
 ## Table of Contents
